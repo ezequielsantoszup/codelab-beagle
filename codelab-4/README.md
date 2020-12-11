@@ -1,9 +1,9 @@
-# starter
+# Contexto no Beagle
 
-Para iniciar o backend utilizando a IDE InteliJ abra o terminal e digite:
+Para iniciar o codelab, baixe o projeto da pasta `inicio` e utilizando a IDE InteliJ abra o terminal e digite:
 
 ```
 $ mvn spring-boot:run
 ```
 
-![Imagem 1: Tela Terminal InteliJ](https://github.com/ezequielsantoszup/starter/blob/main/.img/image1.png?raw=true)
+https://docs.usebeagle.io/v/v1.0-pt/api/contexto
